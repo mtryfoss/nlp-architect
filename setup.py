@@ -78,7 +78,7 @@ setup(
     author_email="nlp_architect@intel.com",
     url="https://github.com/IntelLabs/nlp-architect",
     license="Apache 2.0",
-    python_requires=">=3.6.*",
+    python_requires=">=3.6.0",
     packages=find_packages(
         exclude=["tests.*", "tests", "server.*", "server", "examples.*", "examples", "solutions.*", "solutions"]
     ),
